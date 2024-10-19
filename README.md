@@ -1,5 +1,6 @@
-# 💫 About Me:
-I'm currently working on backend web developement<br>Seeking to get hired
+# 👋 I'm Sina Dehghani:
+💻 Currently working on frontend and backend developement<br>
+💼 Seeking co-ops/internships
 
 
 ## 🌐 Socials:
@@ -21,4 +22,3 @@ I'm currently working on backend web developement<br>Seeking to get hired
 ---
 [![](https://visitcount.itsvg.in/api?id=Sina177&icon=6&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
