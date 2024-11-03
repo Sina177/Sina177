@@ -22,6 +22,3 @@
 # 🛠️ Libraries/Frameworks:
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sina177&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&border_color=ADD8E6)
