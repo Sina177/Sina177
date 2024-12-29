@@ -20,5 +20,6 @@
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 # 🛠️ Libraries/Frameworks:
+![Alt Text](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
