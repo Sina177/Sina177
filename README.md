@@ -30,5 +30,6 @@
 
 ## 🌐 You Can Find Me At:
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" href="https://linkedin.com/in/sinad7" width="100px">
+  <a href="https://linkedin.com/in/sinad7">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="100px">
 </p>
