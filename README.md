@@ -21,11 +21,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="60px" alt="Flask">
 </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinad7) 
 
 
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sina177&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180px">
 </p>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinad7) 
