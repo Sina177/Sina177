@@ -2,10 +2,10 @@
 **👷🏼Currently working on:**
 - **Web Developement 🔗**
 - **Frontend and Backend Developement ⚛️🖥️**
-- **Fullstack Developement 💻**
+- **Fullstack Development 💻**
 - **Artificial Intellegence & Machine Learning 🤖**
-<br>
-**💼 Seeking Co-Ops/Internships**
+
+**💼Seeking Co-Ops/Internships**
 
 # </> Tech Stack:
 <p align="center">
