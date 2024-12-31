@@ -1,11 +1,11 @@
 # 👋 I'm Sina Dehghani:
-👷🏼Currently working on:
-- Web Developement 🔗
-- Frontend and Backend Developement ⚛️🖥️
-- Fullstack Developement 💻
-- Artificial Intellegence & Machine Learning 🤖
+**👷🏼Currently working on:**
+- **Web Developement 🔗**
+- **Frontend and Backend Developement ⚛️🖥️**
+- **Fullstack Developement 💻**
+- **Artificial Intellegence & Machine Learning 🤖**
 <br>
-💼 Seeking Co-Ops/Internships
+**💼 Seeking Co-Ops/Internships**
 
 # </> Tech Stack:
 <p align="center">
