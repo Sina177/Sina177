@@ -16,7 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60px" alt="Python">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="60px" alt="Java">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="60px" alt="C">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="60px" alt="MongoDB">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="60px" alt="PostgreSQL">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="60px" alt="NodeJS">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="60px" alt="Flask">
 </p>
